@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Streamlit_Assignment.py
+web: sh setup.sh && streamlit run Hassan_Ajami_app.py
